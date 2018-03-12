@@ -1,16 +1,16 @@
 --- !omap
 - out_manifest: |
-    4b400c89a3dce89325b170d0d055fd84fb7485a052d9490cb89b178aa6585f54  skullcoin-0.14.2-win-unsigned.tar.gz
-    bcc9b592b25a5bcb30bb0bebdb1184f4ca05666efc0199f0097be47a42731328  skullcoin-0.14.2-win32-debug.zip
-    0a51bfd98ea3f1a34941a9eeb6641eb782abbaded5385465e798b40439e7540b  skullcoin-0.14.2-win32-setup-unsigned.exe
-    28affed56f76415fc7fbb952d7e7d8459934a6048099ba2f883b5ad97babebad  skullcoin-0.14.2-win32.zip
-    cb48e0e9fbee1b3ffde99d2d850577f96e0458d1fe4573eb990221c6088fb6ce  skullcoin-0.14.2-win64-debug.zip
-    29a1ba63260afc1e3cb1eb8ddbcef71720b27e17341af1d7787915eec9b4dd7c  skullcoin-0.14.2-win64-setup-unsigned.exe
-    0f48bc6b6fc8ebfd6ba785d73b2fd3cdb15c7e5dbf93dd998e37e06aaef00eab  skullcoin-0.14.2-win64.zip
-    ebae4077eec013e4234a8641a04095e187e39b0ac1b134eede58e4cdfb1526a9  src/skullcoin-0.14.2.tar.gz
+    8fc932da0fc5b13ccad7655c7fdb4decec46079ad5323b023a7002414d98d7b4  skullcoin-0.14.2-win-unsigned.tar.gz
+    638553b773212b08d5262581214b40ed3916e444596536b28dc370dcec51a996  skullcoin-0.14.2-win32-debug.zip
+    4042adbcb243411e9c1f16ccc2d54c273af2b950092a29979ea5bb4342549a28  skullcoin-0.14.2-win32-setup-unsigned.exe
+    3ac174523a5d495b91bd54c8d6b50236b9605ab6b7fedb709dc46c3eb7b43ebd  skullcoin-0.14.2-win32.zip
+    68c75d25f1d54f71e03f63b842680c0280b964a9019b7bf96acbd159b1f432c8  skullcoin-0.14.2-win64-debug.zip
+    80d384d8c53dd64981011da000f28319eb369a5c13e1fe1dbaad9a9a23687848  skullcoin-0.14.2-win64-setup-unsigned.exe
+    a2533fbe26707ba355151ff00d1d934dbdc0361c887c45ff85b79fe23fd9a902  skullcoin-0.14.2-win64.zip
+    f4aeff895b4c5a4df6a071a871e852d653ebae31d67ce8ab169a0edd94676469  src/skullcoin-0.14.2.tar.gz
 - in_manifest: |-
     a7c257bd4dddc2167d4f6c9955763aaed11462081cae4c11266987dbf05a20b0  skullcoin-win-0.14-desc.yml
-    git:653e9d45a68573528db2bc51749c996f627e2e32 skullcoin
+    git:8040e5b59a52ddfe804cd50729a9c74adb4cf9eb skullcoin
 - base_manifests: !omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
@@ -355,7 +355,7 @@
       9f75129e147d1d082119f44863e2a4d80224a4e74657c1fd8ad9c42b9a1e5ec1  libwind0-heimdal_1.6~git20131207+dfsg-1ubuntu1.2_amd64.deb
       c2883d497b2acb71c63ca6023bd932a33c1d6c1f5ac38136d9a8dc3d14171b6d  libwind0-heimdal_1.6~git20131207+dfsg-1ubuntu1_amd64.deb
       5af94dbfbf9d040c3193f31fff178b4615f68915e2ae6fe8725af05bbb58c433  libxtables10_1.4.21-1ubuntu1_amd64.deb
-      c26611ec6c64d86beae264676a84b51366da3931cc3078b33808f1ac48a81876  linux-libc-dev_3.13.0-142.191_amd64.deb
+      eb9ed8b4771c7e1ed46f3ae4153d5c2fa90e4052fbc141f0ac05d916dc38a7d4  linux-libc-dev_3.13.0-143.192_amd64.deb
       1a5d88e47eaeb28456e11449fd42244e7af7ccfc9d12a36ede2afb94d19f37d7  linux-libc-dev_3.13.0-24.46_amd64.deb
       998a5dfc01f07e24fe96321e2ce5a707ba1aef154c1cbacb2483722a0eee2df1  locales_2.13+git20120306-12.1_all.deb
       d78a27a94732ed1109754b72c4f1aa0d6fa81e595a18d62ef64fb7c6939f0871  locales_2.13+git20120306-12_all.deb

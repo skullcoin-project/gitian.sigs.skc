@@ -1,13 +1,13 @@
 --- !omap
 - out_manifest: |
-    e50b924956e88a000d0300ce6d9f8935606d2a30261d53c748d4163aef11c3c9  skullcoin-0.14.2-osx-unsigned.dmg
-    df2ebfae19adb57a9ad3b3a3ae2b8be569bfd22e3931dc2d1227233765666413  skullcoin-0.14.2-osx-unsigned.tar.gz
-    5fe2f1cb3da773364b7c933a438b78e444b54ddf1330d6a407d06e1005ca972a  skullcoin-0.14.2-osx64.tar.gz
-    ebae4077eec013e4234a8641a04095e187e39b0ac1b134eede58e4cdfb1526a9  src/skullcoin-0.14.2.tar.gz
+    b289af8a8fcb98fe555d2068222a5fcfdea90a76842ace586208c4215fe57882  skullcoin-0.14.2-osx-unsigned.dmg
+    1825e876a76b6121b3150ef2004a07820430d868a3ff7e9562d9cb2bf451dedf  skullcoin-0.14.2-osx-unsigned.tar.gz
+    77b39bc6e4e9a2f051d671250628145a19c4f521ef8bcf1194dd7b31e6da1365  skullcoin-0.14.2-osx64.tar.gz
+    f4aeff895b4c5a4df6a071a871e852d653ebae31d67ce8ab169a0edd94676469  src/skullcoin-0.14.2.tar.gz
 - in_manifest: |-
     49b9e3b960eb495642835cc4d89e8624c5f3b2e5d29646b8ea01661beeb27a2b  skullcoin-osx-0.14-desc.yml
     d27a10054bad8b0cb24965349029fd16c01e15fe5adc2d7a61a451a5ae2218a7  MacOSX10.11.sdk.tar.gz
-    git:653e9d45a68573528db2bc51749c996f627e2e32 skullcoin
+    git:8040e5b59a52ddfe804cd50729a9c74adb4cf9eb skullcoin
 - base_manifests: !omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
@@ -425,7 +425,7 @@
       368157b36a2f83945929397a3532ec4ee6e3cb59338caae8b68190840ac781d3  libxrandr2_2%3a1.5.0-1~trusty1_amd64.deb
       64e1d395ae62765fb7bb701356b44225ddf840d4332331599b59451e4132effc  libxrender1_1%3a0.9.8-1build0.14.04.1_amd64.deb
       5af94dbfbf9d040c3193f31fff178b4615f68915e2ae6fe8725af05bbb58c433  libxtables10_1.4.21-1ubuntu1_amd64.deb
-      c26611ec6c64d86beae264676a84b51366da3931cc3078b33808f1ac48a81876  linux-libc-dev_3.13.0-142.191_amd64.deb
+      eb9ed8b4771c7e1ed46f3ae4153d5c2fa90e4052fbc141f0ac05d916dc38a7d4  linux-libc-dev_3.13.0-143.192_amd64.deb
       1a5d88e47eaeb28456e11449fd42244e7af7ccfc9d12a36ede2afb94d19f37d7  linux-libc-dev_3.13.0-24.46_amd64.deb
       998a5dfc01f07e24fe96321e2ce5a707ba1aef154c1cbacb2483722a0eee2df1  locales_2.13+git20120306-12.1_all.deb
       d78a27a94732ed1109754b72c4f1aa0d6fa81e595a18d62ef64fb7c6939f0871  locales_2.13+git20120306-12_all.deb
